@@ -7060,6 +7060,12 @@
     githubId = 1204734;
     name = "Emil Karlson";
   };
+  jkitman = {
+    email = "josh.kitman@protonmail.com";
+    github = "jkitman";
+    githubId = 104733614;
+    name = "Josh Kitman";
+  };
   jlamur = {
     email = "contact@juleslamur.fr";
     github = "jlamur";
